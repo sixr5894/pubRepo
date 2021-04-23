@@ -1,0 +1,15 @@
+C:\Users\stude\source\repos\MxdlShop\UseCases\bin\Release\net5.0\UseCases.deps.json
+C:\Users\stude\source\repos\MxdlShop\UseCases\bin\Release\net5.0\UseCases.dll
+C:\Users\stude\source\repos\MxdlShop\UseCases\bin\Release\net5.0\ref\UseCases.dll
+C:\Users\stude\source\repos\MxdlShop\UseCases\bin\Release\net5.0\UseCases.pdb
+C:\Users\stude\source\repos\MxdlShop\UseCases\bin\Release\net5.0\Domain.dll
+C:\Users\stude\source\repos\MxdlShop\UseCases\bin\Release\net5.0\Domain.pdb
+C:\Users\stude\source\repos\MxdlShop\UseCases\obj\Release\net5.0\UseCases.csprojAssemblyReference.cache
+C:\Users\stude\source\repos\MxdlShop\UseCases\obj\Release\net5.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stude\source\repos\MxdlShop\UseCases\obj\Release\net5.0\UseCases.AssemblyInfoInputs.cache
+C:\Users\stude\source\repos\MxdlShop\UseCases\obj\Release\net5.0\UseCases.AssemblyInfo.cs
+C:\Users\stude\source\repos\MxdlShop\UseCases\obj\Release\net5.0\UseCases.csproj.CoreCompileInputs.cache
+C:\Users\stude\source\repos\MxdlShop\UseCases\obj\Release\net5.0\UseCases.csproj.CopyComplete
+C:\Users\stude\source\repos\MxdlShop\UseCases\obj\Release\net5.0\UseCases.dll
+C:\Users\stude\source\repos\MxdlShop\UseCases\obj\Release\net5.0\ref\UseCases.dll
+C:\Users\stude\source\repos\MxdlShop\UseCases\obj\Release\net5.0\UseCases.pdb
